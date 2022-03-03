@@ -24,6 +24,7 @@ def findSimilar(row):
 
 # THIS IS THE DISPLAYED PART
 st.title('Movie Recommender System')
+st.subheader('WebApp by Hamdan Iftikhar')
 
 col1, col2 = st.columns((1,1))
 
